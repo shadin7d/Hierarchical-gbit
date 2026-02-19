@@ -54,3 +54,44 @@ The framework provides templates for conducting research experiments. To set up 
 
 ## Conclusion
 The Hierarchical Gbit Research Framework is a comprehensive tool designed to streamline research in graph algorithms. By providing powerful features and an intuitive interface, it sets the stage for innovative research and experimentation.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to:
+
+- Use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software
+- Subject to the condition that the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.**
+
+For full license text, see: [LICENSE](LICENSE)
+
+# Hierarchical G-Bit: Physics-Based Hierarchical Cavity Framework
+
+**Physics Thamizhan Project**  
+One equation → emergent memory, stability, correlation, gravity-like effects, entanglement-like constraints.  
+Inspired by hierarchical cavities: Shallow = fast/fragile (quantum-like), Deep = stable/indestructible (gravity/memory-like).
+
+## What is this?
+A minimal Python simulation framework to demonstrate **physics-inspired computation**:
+- Single damped oscillator equation with hierarchy (x/y/z levels)
+- Double-well potentials + couplings → emergent binary logic & memory
+- Depth + inertia (Bike Law) → extreme noise resistance
+- Shared deep constraints → entanglement-like correlation
+- Energy relaxation → physical optimization (no search algorithms)
+
+**Key Results (from demos):**
+- Core memory: 0 flips under high noise (Kramers rate ~10^{-48})
+- Energy efficiency: Up to 4900x less than standard layers (simulated)
+- Negative entropy change in masked teaser (impossible physics hook)
+
+## Quick Start
+```bash
+git clone https://github.com/shadin7d/Hierarchical-gbit.git
+cd Hierarchical-gbit
+pip install -r requirements.txt
+python examples/demo_gravity.py
