@@ -97,5 +97,4 @@ A minimal Python simulation framework to demonstrate **physics-inspired computat
 ```bash
 git clone https://github.com/shadin7d/Hierarchical-gbit.git
 cd Hierarchical-gbit
-pip install -r requirements.txt
 python main.py
