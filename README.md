@@ -90,11 +90,20 @@ A minimal Python simulation framework to demonstrate **physics-inspired computat
 - Negative entropy change in masked teaser (impossible physics hook)
 
 ## Quick Start
-# Hierarchical G-bit
 
-## Run
+### ▶️ Run in Google Colab / Jupyter Notebook
 
-```bash
+Open a new notebook and run these cells:
+
+```python
+!git clone https://github.com/shadin7d/Hierarchical-gbit.git
+%cd Hierarchical-gbit
+!pip install -r requirements.txt
+!python gbit_master_benchmark.py
+
+pc/laptop 
+
 git clone https://github.com/shadin7d/Hierarchical-gbit.git
 cd Hierarchical-gbit
-python main.py
+pip install -r requirements.txt
+python gbit_master_benchmark.py
