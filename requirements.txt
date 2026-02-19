@@ -1,8 +1,2 @@
-random
-math
-json
-time
-sys
-copy
-datetime
-collections
+numpy
+matplotlib
